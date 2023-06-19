@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+    
+  
+}
+
+.au-header{
+    background-image: url("aboutusbg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+  
+h4{
+    font-family: 'Jost', sans-serif;
+    text-align: center;
+    color: darkslateblue;
+}
+h6{
+    font-size: medium;
+    color: darkgray;
+    text-align: center;
+    
+}
+p{
+    font-size: small;
+    text-align: justify;
+    
+}
+
+.card img{
+    width: 100%;
+    
+
+}
+.card-inner{
+    margin: 10px;
+}
+.card-inner h4{
+    margin-top:10px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.linkedin img{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}

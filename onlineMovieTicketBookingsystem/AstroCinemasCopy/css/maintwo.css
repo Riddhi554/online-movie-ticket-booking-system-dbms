@@ -1,0 +1,77 @@
+.wel{
+    padding-bottom: 100px; padding-top:100px; background-image: url('../images/indexbg.jpg'); 
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 50px;
+}
+
+.wel-login{
+
+    padding-bottom: 100px; padding-top:100px; 
+    background-image: url('../images/loginbg.jpg'); 
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+.wel-signup{
+    overflow: hidden;
+    padding-bottom: 100px; padding-top:100px; 
+    background-image: url('../images/signupbg.jpg'); 
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 50px;
+}
+
+.wel-mybooking{
+    padding-top:100px; 
+    background-image: url('../images/mybookingbg.jpg'); 
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+}
+
+.wel-confirm{
+
+    padding-top:100px; 
+    background-image: url('../images/testbg.jpg'); 
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+
+}
+
+.wel-pay{
+     
+    background-image: url('../images/ru.jpg'); 
+    background-attachment: fixed;
+    background-size: fill;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+
+}
+.wel-seat{
+     
+    background-image: url('../images/seat.jpg'); 
+    background-attachment: fixed;
+    background-size: fill;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+    overflow: hidden;
+}
+.wel-change{
+    background-image: url('../images/changebg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Jost', sans-serif;
+    overflow: hidden;
+}
